@@ -1,4 +1,5 @@
 print "Essa é uma calculadora de dois números inteiros! =]"
+puts "\n"
 
 print "Digite o primeiro número inteiro: "
 
